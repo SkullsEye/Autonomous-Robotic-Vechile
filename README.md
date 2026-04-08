@@ -2,6 +2,10 @@
 
 An autonomous robotic vehicle built with ROS2 that uses **Simultaneous Localization and Mapping (SLAM)** for real-time navigation and obstacle avoidance. The robot autonomously maps unknown environments, localizes itself within those maps, and navigates to goal positions.
 
+<p align="center">
+  <img src="docs/images/odometry_and_pathplanner.gif" width="600" alt="Autonomous Navigation Demo"/>
+</p>
+
 ## Features
 
 - Real-time 2D SLAM using LiDAR sensor data
